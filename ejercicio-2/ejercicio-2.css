@@ -1,0 +1,30 @@
+.p1{
+	background-color: chocolate;
+	margin-left: 5px;
+	padding: 10px;
+	text-align: justify;
+	font-size: 13pt;
+}
+.p2{
+	background-color: orange;
+	margin-left: 5px;
+	padding: 10px;
+	text-align: justify;
+	font-size: 13pt;
+
+}
+.p3{
+	background-color: cyan;
+	margin-left: 5px;
+	padding: 10px;
+	text-align: justify;
+	font-size: 13pt;
+}
+
+#contenedor{
+	background-color: green;
+	width: 1250px;
+	height: 525px;
+	border: 6px solid green;
+}
+
